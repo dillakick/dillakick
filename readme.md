@@ -1,7 +1,11 @@
 ### 👋 Hi! // こんにちは！ // ¡Hola!
 
 Hi there! My name is nxm3, otherwise known as "Zeroworld", or "Lua."
-I know a *lot* of Python, Lua, HTML, and CSS.
+I know a *lot* of Python, Lua, HTML, and CSS (and now Small Basic :D).
+
+I have a Github organization that's basically a place for me to make stuff for brick-building games (Won't be exactly Roblox, or Finobe). [Check it out right here!](https://github.com/lakemichiganindustries)
+
+I also have a Neocities site (you may laugh now): https://lockdownlua.neocities.org/
 
 ## 📝 Public Domain Notice
 
