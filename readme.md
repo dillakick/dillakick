@@ -14,3 +14,6 @@ Please keep in mind that all of my gists or repositories usually use the MIT Lic
 ## 🛑 Before You Fork/Watch/Star/Follow
 
 Before you do anything on my profile, here is the golden rule: **PLEASE REMAIN RESPECTFUL IN ANY FORM OF COMMUNICATION TOWARDS ME OR THE CONTRIBUTORS (ex. issues/PRs/emails).** Please be serious in those communications as well.
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=nxm3)](https://github.com/anuraghazra/github-readme-stats)
+
